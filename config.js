@@ -2,8 +2,7 @@ const CONFIG = {
     titleWeb: "guiem",
     introTitle: 'PThuyyyy',
     introDesc: `Em Click vào cho tôi,
-    không thì em chết đi ,
-    argghhh`,
+    không thì em chết đi ,argghhh`,
     btnIntro: '^^Đây nè^^',
     title: 'Anh tên là Tuấn nhưng thay vì thế từ giờ em có thể gọi là anhyeuuuuu :3',
     desc: 'em mà thoát ra thì em chết đi , arrgghhh ',
@@ -15,5 +14,5 @@ const CONFIG = {
     mess: 'ok tui đồng ý, em inbox cho tôi xin giờ giấc nhaaaaa',
     messDesc: 'à với lại...em ăn cơm chưa ?',
     btnAccept: 'kệ,yeuanh <3',
-    messLink: 'https://www.facebook.com/messages/t/100006131343650/
+    messLink: 'https://www.facebook.com/messages/t/100006131343650/'
 }
